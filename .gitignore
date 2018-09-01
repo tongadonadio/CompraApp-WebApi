@@ -1,0 +1,11 @@
+.vs/
+CompraApp.Backend.Api/bin/
+CompraApp.Backend.Api/obj/
+CompraApp.Backend.DataAccess/bin/
+CompraApp.Backend.DataAccess/obj/
+CompraApp.Backend.Domain/bin/
+CompraApp.Backend.Domain/obj/
+CompraApp.Backend.Service.Test/obj/
+CompraApp.Backend.Service/bin/
+CompraApp.Backend.Service/obj/
+CompraApp.Backend/obj/
